@@ -1,11 +1,11 @@
-# NFTContract-withWL_DistributionHoldersContract
+# NFTContract_DistributionHoldersContract
 <i>
 SAMPLE <br>
 Lang: Solidity
 Bch: Polygon
 </i>
 <p>
-<br>- NFT Contract with WL function,
+<br>- Basic NFT Contract,
 <br>- Distribution Contract for all NFT Holders:
 <br> -- Distribute from contract balance  
 <br> -- Distribute native token
