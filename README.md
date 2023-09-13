@@ -1,4 +1,5 @@
-# NFTContract_DistributionHoldersContract
+# NFTContract_HolderDistribution_NFTStaking
+
 <i>
 SAMPLE <br>
 Lang: Solidity
